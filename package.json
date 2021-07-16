@@ -1,0 +1,16 @@
+{
+  "name": "portfoliogenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "portfolio-generator.js",
+  "type": "module",
+  "scripts": {
+    "start": "clear && node portfolio-generator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
